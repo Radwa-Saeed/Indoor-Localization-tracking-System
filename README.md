@@ -44,14 +44,14 @@ Design and implementation of a WiFi tracking module where a bracelet can be atta
 
 <p align="center"><img src="./Results/07.png" alt="Original" width="500"/></p>
 
-## 6. Web & Mobile Visualization [📌]()
+## 6. Web & Mobile Visualization [📌](https://github.com/Radwa-Saeed/Indoor-Localization-tracking-System/tree/main/Client)
 
 1. We started by connecting the web and mobile Apps to the flask server
 2. The server after making the prediction it sends the predicted location label to the apps and they localize the pullet with the specified coordinates
 
 <p align="center"><img src="./Results/06.png" alt="Original" width="700"/></p>
 
-## 7. App Features [📌]()
+## 7. App Features 
 - We also added Replay Button which stores the previous locations of the esp and replay them on pressing
 
 ## Important Note 
