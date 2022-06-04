@@ -3,8 +3,8 @@
 #include <stdlib.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid= "theflash";
-const char* password= "39722558412_Looza";
+const char* ssid= "ssid";
+const char* password= "password";
 
 //String saved_networks[] = {"","STUDBME2", "maryem", "Razan", "Loozazzz", "Heba","CMP_LAB4", "CMP-lab1","STUDBME1","Meeran"};
 String saved_networks[] = {"Medo", "theflash", "Loutfy 18", "Redmi_Note5", "Vodafone_ADSL_922E","Gaber", "Vodafone_ADSL_922E","Vodafone_VDSL_8C7D","Loozazzz"};
